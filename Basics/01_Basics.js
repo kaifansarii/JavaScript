@@ -16,4 +16,5 @@ let Symbol = '@';
 
 // * typeof                       // Used to check the datatype of a variable.
 let name = "Kaif Ansari";
+console.log(typeof(name));
 console.log(typeof name);
